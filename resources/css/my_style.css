@@ -1,0 +1,21 @@
+/* Add any css you want to use for you website here */
+h1
+{
+	color: gold;
+	text-align: center;
+	font-size: 100px;
+}
+p{
+	text-align: center;
+	font-size: 24px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h2{
+	color: black;
+	text-align: center;
+}
